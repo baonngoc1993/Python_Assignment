@@ -1,0 +1,46 @@
+this *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *SHIFT* This ios *BACKSPACE*  *BACKSPACE* s a test
+this is a test
+cd  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE* cd *BACKSPACE*  *BACKSPACE*  *BACKSPACE* cd  *SHIFT* Desktop
+ls
+dc *BACKSPACE*  *BACKSPACE* cd  *SHIFT* Desktop
+..
+..  *SHIFT* Desktop
+cd  *SHIFT* ~ *SHIFT* 
+ls
+cd  *SHIFT* Desktop
+ls
+cd spe *BACKSPACE* ri *BACKSPACE*  *BACKSPACE*  *BACKSPACE* cripts
+nano keyboad *SHIFT* _input.txt
+Key.ctrlo
+Key.ctrlxls
+chmod - *BACKSPACE*  *SHIFT* +x keyKey.tabKey.tabKey.tabclear
+clear
+ls
+n *BACKSPACE*  *BACKSPACE*  *BACKSPACE* catr *BACKSPACE*   *SHIFT* Ke *BACKSPACE*  *BACKSPACE* keKey.tabboard *SHIFT* _ *SHIFT* Imput.txt
+cat keyboard *SHIFT* _ *SHIFT* Input.txt
+clear
+lsa *BACKSPACE* 
+cat keyboard *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE* cat keyboad *SHIFT* _input.txt
+rm keyboad *SHIFT* _inpi *BACKSPACE* ut.txt
+ls
+ca *BACKSPACE*  *BACKSPACE*  *BACKSPACE* cat kKey.tabboard *SHIFT* _ *SHIFT* Input.txt
+Key.ctrlcKey.ctrlc *SHIFT* 
+Key.f4Key.leftKey.ctrl_rclear *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE* Key.ctrlcthis is a test
+this is a test
+cd  *SHIFT* Desl *BACKSPACE* ktop
+ls
+v *BACKSPACE* cd scripta *BACKSPACE* s
+ls
+key *BACKSPACE*  *BACKSPACE*  *BACKSPACE* car *BACKSPACE* yb *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE* cat keKey.tabboard *SHIFT* _ *SHIFT* Input.txt
+clear
+clear *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE* clear
+Key.ctrlvKey.ctrlcKey.ctrlKey.ctrlcthis is a test
+this is a test
+cat = *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE* ls
+cat keyKey.tabboard *SHIFT* _ *SHIFT* InKey.tab
+hello
+Key.ctrlcthi  *BACKSPACE* as *BACKSPACE*  *BACKSPACE* s is a test
+this is a ty *BACKSPACE* est
+Key.ctrlhello 
+hi 
+Key.ctrlc
